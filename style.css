@@ -1,0 +1,16 @@
+body {
+	overflow-y: hidden;
+}
+
+#image-scroll {
+	position: relative;
+	height: -webkit-fill-available;
+	top: 0;
+	bottom: 0;
+	overflow-y: auto;
+}
+
+ul {
+	list-style: none;
+}
+
